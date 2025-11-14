@@ -1,1 +1,2 @@
 # -SD-ControleConcorrenciaJava
+O Que eu pude perceber de diferente nas logs das execuções dos códigos foi que elas estão desatualizadas o pai o filho e a mãe estão sacando da mesma conta cujo o saldo inicial é entre 100 e 200 reais ao todo foi sacado 600 reais e isso faz com que não tenha saldo quando o outro vai sacar também precebi nas execuções que a ordem de quem saca fica sendo mudada nas logs eu também notei que em algumas das logs o filho realiza dois saques na conta, nas logs percebesse também que o valor que sacado vai mudando dependendo o valor do saldo inicial. 
